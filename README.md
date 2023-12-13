@@ -12,7 +12,7 @@ Pastejacking  is a technique is a method that malicious websites employ to take 
 
 # Screenshots
 
-<img src="[https://github.com/](https://github.com/De3vil/PasteJacking/tree/main/scr/one.png)" width="100%"></img>
+<img src="[https://github.com/De3vil/PasteJacking/blob/main/scr/one.png)" width="100%"></img>
 
 ### Installing
 + **For Linux :**
